@@ -1,4 +1,4 @@
-İlk
-İki
-Üç
-Dört
+One
+Two
+Three
+Four
